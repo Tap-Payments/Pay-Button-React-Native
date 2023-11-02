@@ -10,7 +10,10 @@ Before diving into the development process, it's essential to establish the prer
 
 
 
-<!-- https://github.com/Tap-Payments/BenefitPay-React-Native/assets/121755223/5849ba95-3375-4b8e-8bb9-c34d6dab2008 -->
+
+https://github.com/Tap-Payments/Pay-Button-React-Native/assets/121755223/0bf4fc3e-ba4a-4030-b9f7-27a79876ad5a
+
+
 
 
 # Step 1: Requirements[]()
